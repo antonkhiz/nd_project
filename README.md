@@ -1,4 +1,4 @@
-# nd_project
+# nd_project (in progress)
 
 Spotify instrument-heavy playlist generator for artists.
 
