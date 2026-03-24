@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Environment variables (SENSITIVE!)
+.env
+.env.local
+
+# Spotify tokens cache (SENSITIVE!)
+.spotify_token_cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
